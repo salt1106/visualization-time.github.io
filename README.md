@@ -1,7 +1,7 @@
 # スケジュール管理ツール
 
 曜日と時間のグリッド形式でスケジュールを管理できるWebアプリケーションです。
-
+https://salt1106.github.io/visualization-time.github.io/
 ## 機能
 
 - 週間スケジュール表示（日〜土曜日）
