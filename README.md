@@ -38,5 +38,5 @@ schedule-manager/
 
 Copliotくんが書きました。対応してなかったらごめんなさい＞＜
 
-## Gem
+prompt.mdを使うと可視化がLLMが頑張ってくれます
 
