@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "exportDate": "2025-10-06T05:47:01.606Z",
+  "schedules": {
+    "sun-00:00": {
+      "title": "a",
+      "color": "blue"
+    },
+    "mon-00:00": {
+      "title": "b",
+      "color": "green"
+    },
+    "tue-00:00": {
+      "title": "c",
+      "color": "red"
+    },
+    "wed-00:00": {
+      "title": "d",
+      "color": "yellow"
+    },
+    "thu-00:00": {
+      "title": "e",
+      "color": "purple"
+    },
+    "fri-00:00": {
+      "title": "f",
+      "color": "orange"
+    },
+    "sat-00:00": {
+      "title": "g",
+      "color": "blue"
+    }
+  }
+}
